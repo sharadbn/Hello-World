@@ -1,2 +1,4 @@
 # Hello-World
-Just another repository
+Hi Guys! My new book "Journey to the Edge of the Universe" is now avialable in Kindle version!
+Check it out on Amazon.in
+Bye for now
